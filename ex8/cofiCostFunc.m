@@ -53,8 +53,12 @@ J1 = sum(sum(dif .^ 2)) / 2;
 J2 = 0; % sum(sum(Theta .^ 2)) * lambda / 2;
 J = J1 + J2;
 
-X_grad = X' * dif; % + lambda * Theta;
-Theta_grad = Theta' * dif;
+% X_grad = Theta' * dif; % + lambda * Theta;
+% Theta_grad = X' * dif;
+
+for k = 1:n
+  for i = 1:
+end
 
 % =============================================================
 
