@@ -1,0 +1,12 @@
+
+Final C 1.000000, sigma 0.100000, error 0.030000
+C 0.750000, sigma 0.005000, error 0.565000
+Final C 0.750000, sigma 0.005000, error 0.565000
+C 0.750000, sigma 0.050000, error 0.055000
+C 0.750000, sigma 0.100000, error 0.030000
+C 0.750000, sigma 0.050000, error 0.055000
+C 0.750000, sigma 0.100000, error 0.030000
+Final C 0.750000, sigma 0.100000, error 0.030000
+Final C 1.000000, sigma 0.100000, error 10000.000000
+Final C 1.000000, sigma 0.100000, error 10000.000000
+Final C 1.000000, sigma 0.100000, error 10000.000000
